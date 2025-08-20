@@ -1,0 +1,11 @@
+TelecomOne PLC - Enterprise Agreement
+Customer ID: CUST_001
+Service Level Agreement: 99.95%
+Per Line Price: USD 18.00
+Monthly Commitment: USD 15000.00
+Minimum Lines: 500
+Maximum Lines: 2000
+Refund Rate: USD 10.00 per hour of outage
+Contract Term: 24 months
+Renewal Date: 2025-12-31
+Currency: USD

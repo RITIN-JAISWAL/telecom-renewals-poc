@@ -1,0 +1,10 @@
+Britannia Mobile Ltd - SME Plan Contract
+Customer Ref: CUST_003
+SLA: 99.5%
+Line Price: GBP 15.00
+Monthly Minimum Spend: GBP 2000.00
+Lines Allowed: 50 to 500
+Rebate: GBP 5/hour downtime
+Duration: 36 months
+Next Renewal: 2026-01-15
+Currency: GBP

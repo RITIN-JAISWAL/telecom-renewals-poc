@@ -1,0 +1,10 @@
+GlobalNet Communications - Corporate Wireless Plan
+Customer: CUST_002
+SLA: 99.9%
+Per SIM Cost: USD 20.00
+Commit: USD 8000.00 monthly
+Lines: Min 300, Max 1500
+Outage Refund: USD 8.00/hour
+Term: 12 months
+Renewal: 2025-11-30
+Currency: USD

@@ -1,0 +1,12 @@
+product_id,name,category,target_metric,threshold,price_monthly
+P001,Data Booster 10GB,add-on,data_gb,15,10.0
+P002,Data Booster 50GB,add-on,data_gb,50,35.0
+P003,Unlimited Data Pack,plan,data_gb,120,70.0
+P010,International Minutes 100,add-on,voice_minutes,300,20.0
+P011,Unlimited Voice Pack,plan,voice_minutes,1000,40.0
+P020,5G Handset Upgrade,device,data_gb,40,25.0
+P021,Premium Handset Lease,device,data_gb,80,50.0
+P030,Family Bundle (4 SIMs),bundle,voice_minutes,600,90.0
+P031,SMB Business Pack,bundle,data_gb,200,150.0
+P040,Priority Customer Support,service,voice_minutes,200,15.0
+P041,Cloud Storage 1TB,service,data_gb,60,12.0
